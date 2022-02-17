@@ -1,0 +1,21 @@
+#include<iostream>
+#include<string>
+#include<vector>
+
+using namespace std;
+
+int main() {
+	vector<bool> result(20000, true);
+	for (int i = 1; i < 10000; i++) {
+		int num = i;
+		string nums = to_string(i);
+		for (int n=0; n < nums.size(); n++) {
+			num += nums[n] - '0';
+		}
+		result[num] = false;
+	}
+	for (int i = 1; i < 10000; i++) {
+		if (result[i] == true)
+			cout <<i<<endl;
+	}
+}
