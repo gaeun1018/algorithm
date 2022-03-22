@@ -1,7 +1,7 @@
 #include <string>
 #include <vector>
 #include <iostream>
-
+ 
 using namespace std;
 
 string solution(string number, int k) {
