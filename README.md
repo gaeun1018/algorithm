@@ -9,7 +9,8 @@ Info
 
 Face2Voice project is maintained By [hyunghee p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [minha bae](https://github.com/)
 
-<br>
+<br></br>
+
 Setup 
 ------
 ### 1. Install Requirements 
