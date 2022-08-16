@@ -7,8 +7,7 @@ Info
   <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
 </div>
 
-Face2Voice project is maintained By [GOOGLE], [hh p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [mh b](https://github.com/)
-[Adobe](https://www.adobe.com)
+Face2Voice project is maintained By [hh p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [mh b](https://github.com/)
 
 
 Setup 
@@ -40,4 +39,3 @@ or
 
 
 
-[GOOGLE] : (https://google.com)
