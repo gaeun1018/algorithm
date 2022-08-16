@@ -3,9 +3,10 @@
 
 Info 
 ------
-<!-- <div align="left">
+<div align="left">
   <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
-</div> -->
+</div>
+
 Face2Voice project is maintained By [GOOGLE], [hh p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [mh b](https://github.com/)
 [Adobe](https://www.adobe.com)
 
