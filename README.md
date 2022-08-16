@@ -7,7 +7,7 @@ Info
   <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
 </div>
 
-Face2Voice project is maintained By [hyunghee p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [minha bae](https://github.com/)
+Face2Voice project is maintained By [hyunghee park](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [minha bae](https://github.com/)
 
 <br>
 
