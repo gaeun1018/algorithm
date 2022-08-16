@@ -17,7 +17,7 @@ Face2Voice is a face speech conversion program, mainly based on [SV2TTS](https:/
 DataSet
 ------
 <div align="left">
-  <img src="https://ifh.cc/g/pXv21c.jpg"/>
+  <img src="https://ifh.cc/g/Okw4yo.jpg" width="360"/>
 </div>
 Setup 
 ------
