@@ -4,13 +4,14 @@
 Info 
 ------
 <div>
-  <img src="https://ifh.cc/g/Q72qAF.jpg">
+  <img src="https://ifh.cc/g/Q72qAF.jpg" width = "480">
 </div>
 
 When you insert a face and text, the voice that matches the face reads the text.
 
 Predict the voice that fits your face and read the phrase you want with that voice.
 
+<br>
 
 <div align="left">
   
