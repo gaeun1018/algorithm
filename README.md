@@ -9,7 +9,9 @@ Info
 
 Face2Voice project is maintained By [hyunghee p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [minha bae](https://github.com/)
 
-<br></br>
+<br>
+
+Face2Voice is a face speech conversion program, mainly based on [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Lip2Speech](https://github.com/Chris10M/Lip2Speech)
 
 Setup 
 ------
