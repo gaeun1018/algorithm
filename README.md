@@ -4,7 +4,7 @@
 Info 
 ------
 <div>
-  <img src="https://ifh.cc/g/q2DKr3.jpg">
+  <img src="https://ifh.cc/g/Q72qAF.jpg">
 </div>
 
 When you insert a face and text, the voice that matches the face reads the text.
