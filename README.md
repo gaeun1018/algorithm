@@ -3,8 +3,8 @@
 
 Info 
 ------
-<div>
-  <img src="https://ifh.cc/g/Q72qAF.jpg" width = "480">
+<div align = "center">
+  <img src="https://ifh.cc/g/Q72qAF.jpg" width = "480" >
 </div>
 
 When you insert a face and text, the voice that matches the face reads the text.
