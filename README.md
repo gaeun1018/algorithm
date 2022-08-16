@@ -4,7 +4,10 @@
 Info 
 ------
 <div align="left">
-  <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
+  |Image Input|Text Input|Voice Output|
+  |<img src="https://ifh.cc/g/f0HMGb.jpg"/>|Hi, The weather is nice today.|<img src="https://ifh.cc/g/yCo0x3.gif"/>|
+  
+  
 </div>
 
 Face2Voice project is maintained By [Hyunghee Park](https://github.com/jh5-6) , [Gaeun Kim](https://github.com/nsense-gekim) , [Minha Bae](https://github.com/)
