@@ -4,7 +4,9 @@
 Info 
 ------
 <div align="left">
+  
   |Image Input|Text Input|Voice Output|
+  |---|---|---|
   |<img src="https://ifh.cc/g/f0HMGb.jpg"/>|Hi, The weather is nice today.|<img src="https://ifh.cc/g/yCo0x3.gif"/>|
   
   
