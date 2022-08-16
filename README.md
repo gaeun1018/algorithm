@@ -10,7 +10,7 @@ Info
 
 <br>
 
-<div align="left">
+<div align="center">
   
   |Image Input|Text Input|Voice Output|
   |---|---|---|
@@ -23,6 +23,7 @@ When you insert a face and text, the voice that matches the face reads the text.
 
 Predict the voice that fits your face and read the phrase you want with that voice.
 
+<br><br>
 
 Face2Voice project is maintained By [Hyunghee Park](https://github.com/jh5-6) , [Gaeun Kim](https://github.com/nsense-gekim) , [Minha Bae](https://github.com/)
 
