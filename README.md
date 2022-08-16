@@ -7,9 +7,6 @@ Info
   <img src="https://ifh.cc/g/Q72qAF.jpg" width = "480" >
 </div>
 
-When you insert a face and text, the voice that matches the face reads the text.
-
-Predict the voice that fits your face and read the phrase you want with that voice.
 
 <br>
 
@@ -21,6 +18,11 @@ Predict the voice that fits your face and read the phrase you want with that voi
   
   
 </div>
+
+When you insert a face and text, the voice that matches the face reads the text.
+
+Predict the voice that fits your face and read the phrase you want with that voice.
+
 
 Face2Voice project is maintained By [Hyunghee Park](https://github.com/jh5-6) , [Gaeun Kim](https://github.com/nsense-gekim) , [Minha Bae](https://github.com/)
 
