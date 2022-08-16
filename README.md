@@ -7,7 +7,7 @@ Info
   
   |Image Input|Text Input|Voice Output|
   |---|---|---|
-  |<img src="https://ifh.cc/g/f0HMGb.jpg"/>|Hi, The weather is nice today.|<img src="https://ifh.cc/g/yCo0x3.gif"/>|
+  |<img src="https://ifh.cc/g/f0HMGb.jpg" width="240"/>|Hi, The weather is nice today.|<img src="https://ifh.cc/g/yCo0x3.gif" width="240"/>|
   
   
 </div>
@@ -29,7 +29,7 @@ Predict the voice that fits your face and read the phrase you want with that voi
 DataSet
 ------
 <div align="left">
-  <img src="https://ifh.cc/g/Okw4yo.jpg" width="360"/>
+  <img src="https://ifh.cc/g/Okw4yo.jpg" width="480"/>
 </div>
 
 We used the [avspeech](https://looking-to-listen.github.io/avspeech/download.html) dataset.
