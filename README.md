@@ -3,6 +3,13 @@
 
 Info 
 ------
+
+
+When you insert a face and text, the voice that matches the face reads the text.
+
+Predict the voice that fits your face and read the phrase you want with that voice.
+
+
 <div align="left">
   
   |Image Input|Text Input|Voice Output|
@@ -18,11 +25,11 @@ Face2Voice project is maintained By [Hyunghee Park](https://github.com/jh5-6) , 
 
 Face2Voice is a face speech conversion program, mainly based on [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Lip2Speech](https://github.com/Chris10M/Lip2Speech)
 
-<br>
+<!-- <br>
 
 When you insert a face and text, the voice that matches the face reads the text.
 
-Predict the voice that fits your face and read the phrase you want with that voice.
+Predict the voice that fits your face and read the phrase you want with that voice. -->
 
 <br>
 
