@@ -7,9 +7,9 @@ Info
   <img src="https://insightface.ai/assets/img/custom/logo3.jpg" width="240"/>
 </div>
 
-Face2Voice project is maintained By [hh p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [mh b](https://github.com/)
+Face2Voice project is maintained By [hyunghee p](https://github.com/jh5-6) , [gaeun kim](https://github.com/nsense-gekim) , [minha bae](https://github.com/)
 
-
+<br>
 Setup 
 ------
 ### 1. Install Requirements 
