@@ -53,7 +53,7 @@ We used the [avspeech](https://looking-to-listen.github.io/avspeech/download.htm
   <img src="https://ifh.cc/g/J6Cbw8.png" width="480"/>
 </div>
 
-We used the [Librispeech](http://www.openslr.org/12) dataset
+We learned the SV2TTS model using the [Librispeech](http://www.openslr.org/12) train-clean-100 data.
 <br>
 
 Setup 
