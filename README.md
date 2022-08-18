@@ -47,6 +47,13 @@ DataSet
 
 We used the [avspeech](https://looking-to-listen.github.io/avspeech/download.html) dataset.
 
+
+
+<div align="left">
+  <img src="https://ifh.cc/g/J6Cbw8.png" width="480"/>
+</div>
+
+We used the [Librispeech](http://www.openslr.org/12) dataset
 <br>
 
 Setup 
