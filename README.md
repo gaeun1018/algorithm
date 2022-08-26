@@ -1,87 +1,12 @@
-# algorithm
+# 작업일지
+- [x] MS1MV3 rec 파일에 AI-HUB, 크롤링 이미지셋 추가
+- [x] glint360k rec 파일에 AI-HUB, 크롤링 이미지셋 추가
 
+# 다음 주 작업 예정
+- [ ] MS1MV3-mask rec 파일에 AI-HUB, 데이터바우처, 크롤링 이미지셋 추가 (마스크 정보 포함)
+- [ ] glint360k-mask rec 파일에 AI-HUB, 데이터바우처, 크롤링 이미지셋 추가 (마스크 정보 포함)
 
-Info 
-------
-<div align = "center">
-  <img src="https://ifh.cc/g/Q72qAF.jpg" width = "480" >
-</div>
-
-
-<br>
-
-<div align="center">
-  
-  |Image Input|Text Input|Voice Output|
-  |---|---|---|
-  |<img src="https://ifh.cc/g/f0HMGb.jpg" width="240"/>|Hi, The weather is nice today.|<img src="https://ifh.cc/g/yCo0x3.gif" width="240"/>|
-  
-  
-</div>
-
-When you insert a face and text, the voice that matches the face reads the text.
-
-Predict the voice that fits your face and read the phrase you want with that voice.
-
-<br><br>
-
-Face2Voice project is maintained By [Hyunghee Park](https://github.com/jh5-6) , [Gaeun Kim](https://github.com/nsense-gekim) , [Minha Bae](https://github.com/)
-
-<br>
-
-Face2Voice is a face speech conversion program, mainly based on [SV2TTS](https://github.com/CorentinJ/Real-Time-Voice-Cloning), [Lip2Speech](https://github.com/Chris10M/Lip2Speech)
-
-<!-- <br>
-
-When you insert a face and text, the voice that matches the face reads the text.
-
-Predict the voice that fits your face and read the phrase you want with that voice. -->
-
-<br>
-
-DataSet
-------
-<div align="left">
-  <img src="https://ifh.cc/g/Okw4yo.jpg" width="480"/>
-</div>
-
-We used the [avspeech](https://looking-to-listen.github.io/avspeech/download.html) dataset.
-
-
-
-<div align="left">
-  <img src="https://ifh.cc/g/J6Cbw8.png" width="480"/>
-</div>
-
-We learned the SV2TTS model using the [Librispeech](http://www.openslr.org/12) train-clean-100 data.
-<br>
-
-Setup 
-------
-### 1. Install Requirements 
-
-  1. I recommend setting up a virtual environment using venv, but this is optional.
-  2. ```pip install flask```. This is necessary.
-  3. ```pip install -r requirements.txt ```
-
-### 2. Download Pretrained Models
-  - [Encoder](https://www.mediafire.com/file/evktjxytts2t72c/lip2speech_final.pth/file) - Copyright (c) 2021 [Christen M](https://github.com/Chris10M)
-  - [Synthesizer](https://drive.google.com/file/d/1EqFMIbvxffxtjiVrtykroF6_mUh-5Z3s/view) - Copyright (c) 2019 [Corentin Jemine](https://github.com/CorentinJ)
-  - [Vocoder](https://drive.google.com/file/d/1cf2NO6FtI0jDuy8AV3Xgn6leO6dHjIgu/view) - Copyright (c) 2019 [Corentin Jemine](https://github.com/CorentinJ)
-
-Please ensure the files are extracted to these locations within your local copy of the repository:
-```
-savedmodels/lip2speech_final.pth
-savedmodels/synthesizer.pt
-savedmodels/vocoder.pt
-```
-
-### 3. Run the application
-
-Use the flask command
-```python app.py```
-or
-```flask run```
-
-
+- [ ] 데이터바우처 데이터셋 112x112로 인증이미지로 변환
+- [ ] **`AI-HUB 데이터셋 v1 (Face in the wild) 112x112로 인증이미지로 변환`**
+- [ ] **`AI-HUB 데이터셋 v3 (Masked Korean Face) 112x112로 인증이미지로 변환`**
 
